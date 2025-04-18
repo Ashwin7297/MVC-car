@@ -1,0 +1,119 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+img
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;  
+}
+.one
+{
+    min-width: 500;
+    position: relative;
+    display: inline-block;
+    margin-left: 42%;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a
+{
+    color:black;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.reg
+{
+    list-style: none;
+    font-size: 30px;
+    margin-left: 230px;
+    position:absolute;
+    min-width: 200;
+    margin-top: 210px;
+
+}
+.login
+{
+    list-style: none;  
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 280px;
+    margin-left: 170px;
+    position:absolute;
+    display: inline-block;
+}
+form
+{
+    width: 500px;
+    position: absolute;
+    font-weight: 700;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 520px;
+    margin-top: 200px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 0 15px rgb(3, 224, 231);
+    color:darkgoldenrod;
+}
+h1
+{
+    margin-left: 640px;
+    margin-top: 100px;
+    position:absolute;
+}
+button
+{
+    width: 100px;
+    background: white;
+    color: black;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+button:hover
+{
+    background: darkcyan;
+}
+.main
+{
+    color:aliceblue;
+    position:absolute;
+    font-family: "PT Serif", serif;
+    font-weight: 800;
+    font-size: 30px;
+    display: inline-block;
+    width:800px;
+    font-size: 50px;
+
+    
+}
+span
+{
+    font-weight: 800;
+    font-size: 30px;
+    position: absolute;
+    color:darkturquoise;
+}
+.but
+{
+
+    position: absolute;
+    list-style: none;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 90px;
+}
