@@ -1,2 +1,0 @@
-# MVC-car
-Car regsiter
